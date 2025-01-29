@@ -10,7 +10,7 @@ Trillo is a hotel booking interface application developed using **HTML**, **CSS*
 ## Technologies Used:
 - **HTML** for the structure and content of the app.
 - **CSS** for styling the layout, colors, and fonts and overall design.
-- **JavaScript** for basic interactivity (though the app is static for now), but the app is only html css based.
+- **JavaScript** for basic interactivity (the app is static for now).
 
 ## How to Use:
 1. Clone or download the repository.

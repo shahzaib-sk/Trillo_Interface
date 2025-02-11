@@ -15,8 +15,3 @@ Trillo is a hotel booking interface application developed using **HTML**, **CSS*
 ## How to Use:
 1. Clone or download the repository.
 2. Open the `index.html` file in any modern browser to view the interface.
-
-```bash
-git clone https://github.com/your-username/trillo.git
-cd trillo
-open index.html
